@@ -10,7 +10,7 @@ display = ["_"]*len(word)
 wrong_guess = 0
 max_guess = 6
 
-print("🎮 Welcome to Hangman Game!")
+print("Welcome to Hangman Game!")
 
 while True:
     print("word:", display)
